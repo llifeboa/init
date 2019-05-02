@@ -1,0 +1,30 @@
+{
+    "Makefile.mk":
+    {},
+    "bin":
+    {
+        "index.html":
+        {},
+
+        "img":{
+            "mini":{
+            }
+        },
+        "css":{
+            "main.css":
+            {}
+        },
+        "scss":{
+            "main.scss":
+            {}
+        },
+       "js":{
+            "index.js":
+            {}
+        }
+    },
+    "release":
+    {
+
+    }
+}
